@@ -1,3 +1,10 @@
+
+こんにちは！　2021年からちょくちょくプログラミングを学習しています。
+いままでにc言語、vb、c++、vb6やvbaなどの化石言語を触ってきました。
+
+あんまりプログラムに触る機会がなく
+まだまだ初心者ですが見ていってください。
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
